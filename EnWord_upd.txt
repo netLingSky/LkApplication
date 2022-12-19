@@ -1,4 +1,10 @@
 【ver】1.0.0-beta【ver】
 【link】https://netlk.lanzout.com/ilkfR0dwqfah【link】
 【psd】11【psd】
- 
+【notice】
+更新内容：
+增加 => 下方TabBar
+修复 => 搜索界面添加完单词后再去主页添加单词会报错的问题
+修复 => 部分UI不适配的问题
+修复 => 添加单词界面重复获取单词音标的问题
+【notice】
