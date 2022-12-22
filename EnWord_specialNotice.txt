@@ -1,4 +1,4 @@
-【isNoticeShow】yes【isNoticeShow】
+【isNoticeShow】no【isNoticeShow】
 【txt】
 测试
 【txt】
