@@ -1,2 +1,4 @@
-【isNoticeShow】no【isNoticeShow】
-【txt】暂无【txt】
+【isNoticeShow】yes【isNoticeShow】
+【txt】
+测试
+【txt】
