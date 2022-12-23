@@ -1,13 +1,12 @@
-【ver】1.0.1-beta【ver】
-【link】https://netlk.lanzout.com/i28n50j0nwaf【link】
+【ver】1.0.2-beta【ver】
+【link】https://netlk.lanzout.com/ixLxP0j9176d【link】
 【psd】11【psd】
 【notice】
 更新内容：
-增加 => 下方TabBar
-增加 => 公告
-修复 => 搜索界面添加完单词后再去主页添加单词会报错的问题
-修复 => 部分UI不适配的问题
-修复 => 添加单词界面重复获取单词音标的问题
-修复 => 在搜索界面添加完单词回到主页去编辑单词无法正常编辑的bug
+优化 => 部分代码
+增加 => 主题：孤独深夜
+增加 => 特殊通知
+增加 => 单词查询历史记录提示
+修复 => 部分bug
 
 【notice】
