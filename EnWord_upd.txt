@@ -1,12 +1,12 @@
-【ver】1.0.2-beta【ver】
-【link】https://netlk.lanzout.com/ixLxP0j9176d【link】
+【ver】1.0.3-beta【ver】
+【link】https://netlk.lanzout.com/i3VTd0ldbzmd【link】
 【psd】11【psd】
 【notice】
 更新内容：
-优化 => 部分代码
-增加 => 主题：孤独深夜
-增加 => 特殊通知
-增加 => 单词查询历史记录提示
+优化 => 单词分享提示
+优化 => 软件界面
+增加 => 主题：清蓝点缀、希沃绿
 修复 => 部分bug
+修复 => 主题界面显示不全的bug
 
 【notice】
